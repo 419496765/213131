@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - name: "HK-HTTPS-三网优化 0x"
+  - name: "小黄鸡"
     password: null
     server: www.chrome-helper.cc
     type: http
