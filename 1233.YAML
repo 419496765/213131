@@ -24,7 +24,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 150
     proxies:
-      - "HK-HTTPS-三网优化 0x"
+      - "小黄鸡"
     icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Twitter.png
   - name: Other
     type: select
